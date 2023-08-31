@@ -2,6 +2,6 @@ Rencana:
 -Saya Harus bisa menjadi seorang front end web developer junior dalam 6 bulan
 -harus menguasai minimal 2 frameworks javascript
 -cari kerja dulu
-  *gaji minimal 8 juta
+  *gaji harus 2 digit dan di perusahaan bonafit
 -harus menguasai back end dasar
 -belajar database
