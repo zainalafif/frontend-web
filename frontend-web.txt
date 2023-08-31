@@ -2,4 +2,4 @@ Rencana:
 -Saya Harus bisa menjadi seorang front end web developer junior dalam 6 bulan
 -harus menguasai minimal 2 frameworks javascript
 -harus menguasai back end dasar
--harus bisa bikin web untuk portofolio
+-belajar database
